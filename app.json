@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "my-app",
-    "slug": "my-app"
+    "name": "JobLink",
+    "slug": "JobLink"
   }
 }
