@@ -16,7 +16,10 @@ Jon Link is a mobile application that allows users to search for jobs! It utiliz
 
 <a id="preview"></a>
 ### App Preview
+<img src="https://user-images.githubusercontent.com/106702313/230326048-25bd9533-d0f9-4c28-ab91-9e3756cd225d.PNG" alt="preview" height="500">
+<img src="https://user-images.githubusercontent.com/106702313/230326054-df218892-aefd-4bd4-b764-1c7ebb6262d0.PNG" alt="preview" height="500">
 <img src="https://user-images.githubusercontent.com/106702313/230324996-76ab15f8-cf28-4695-bf28-35030eeff93c.PNG" alt="preview" height="500">
+
 
 
 </br>
