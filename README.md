@@ -10,15 +10,20 @@
 
 <a id="info"></a>
 ### General Info
-Job Link is a mobile application that allows users to search for jobs! It utilizes a third party API called RapidAPI JSearch to search for jobs posted on LinkedIn, Indeed, Glassdoor, and many others. It displays information such as job details, qualifications and responsibilities.
+Jon Link is a mobile application that allows users to search for jobs! It utilizes a third party API called RapidAPI JSearch to search for jobs posted on LinkedIn, Indeed, Glassdoor, and many others. It displays information such as job details, qualifications and responsibilities.
 
 </br>
 
 <a id="preview"></a>
 ### App Preview
-<img src="https://user-images.githubusercontent.com/106702313/230326048-25bd9533-d0f9-4c28-ab91-9e3756cd225d.PNG" alt="preview" height="500">
-<img src="https://user-images.githubusercontent.com/106702313/230326054-df218892-aefd-4bd4-b764-1c7ebb6262d0.PNG" alt="preview" height="500">
-<img src="https://user-images.githubusercontent.com/106702313/230324996-76ab15f8-cf28-4695-bf28-35030eeff93c.PNG" alt="preview" height="500">
+<details><summary>Overview</summary>
+![Overview Gif](https://user-images.githubusercontent.com/106702313/230333370-580a5dd6-9bbf-4854-a121-ca96040db7e1.gif)
+
+<details><summary>Search</summary>
+![Search Gif](https://user-images.githubusercontent.com/106702313/230332341-6c9e1927-20c3-4ccf-939a-1823a4f3d7fa.gif)
+  
+<details><summary>Job Detail</summary>
+![Job Detail Gif](https://user-images.githubusercontent.com/106702313/230331970-23c0ada5-7f93-4f17-9226-0aabb0ab5853.gif)
 
 
 
@@ -49,3 +54,6 @@ Scan QR code the terminal.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Axios](https://img.shields.io/badge/axios-5a29e4.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+
+
+
