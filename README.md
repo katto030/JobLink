@@ -10,7 +10,7 @@
 
 <a id="info"></a>
 ### General Info
-Jon Link is a mobile application that allows users to search for jobs! It utilizes a third party API called RapidAPI JSearch to search for jobs posted on LinkedIn, Indeed, Glassdoor, and many others. It displays information such as job details, qualifications and responsibilities.
+Job Link is a mobile application that allows users to search for jobs! It utilizes a third party API called RapidAPI JSearch to search for jobs posted on LinkedIn, Indeed, Glassdoor, and many others. It displays information such as job details, qualifications and responsibilities.
 
 </br>
 
@@ -49,6 +49,3 @@ Scan QR code the terminal.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Axios](https://img.shields.io/badge/axios-5a29e4.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-
-
