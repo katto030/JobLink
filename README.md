@@ -1,16 +1,25 @@
-# JobLink App
+# 💼 JobLink App 💼
 
 ### Table of Contents
 1. [General Info](#info)
-2. [Getting Started](#start)
-3. [Preview](#preview)
-4. [Tech Stack](#tech)
+2. [Preview](#preview)
+3. [Getting Started](#start)
+5. [Tech Stack](#tech)
 
 </br>
 
 <a id="info"></a>
 ### General Info
 Jon Link is a mobile application that allows users to search for jobs! It utilizes a third party API called RapidAPI JSearch to search for jobs posted on LinkedIn, Indeed, Glassdoor, and many others. It displays information such as job details, qualifications and responsibilities.
+
+</br>
+
+<a id="preview"></a>
+### App Preview
+![IMG_4754](https://user-images.githubusercontent.com/106702313/230324996-76ab15f8-cf28-4695-bf28-35030eeff93c.PNG)
+![IMG_4753](https://user-images.githubusercontent.com/106702313/230325013-36125efc-5ad8-41bc-97b8-5073d13f0c36.PNG)
+![IMG_4750](https://user-images.githubusercontent.com/106702313/230325017-60bc14be-7938-4e69-8be7-1a18808b46b5.PNG)
+
 
 </br>
 
@@ -31,11 +40,6 @@ Scan QR code the terminal.
 
 </br>
 
-<a id="preview"></a>
-### App Preview
-
-
-</br>
 
 <a id="tech"></a>
 ### Tech Stack
