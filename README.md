@@ -1,3 +1,5 @@
+<img src="https://img.freepik.com/premium-vector/set-characters-hiring-job-woman-with-spyglass-use-online-app-applicant-with-banner-search-work-hr-agent-with-loudspeaker-announcement-candidates-employment-cartoon-people-vector-illustration_87771-14415.jpg?w=2000" alt="banner" width="750"/>
+
 # 💼 JobLink App 💼
 
 ### Table of Contents
